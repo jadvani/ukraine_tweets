@@ -556,9 +556,9 @@ if (notebookContainer) { {
 
 // Listen for the clearing of the current output cell
 var outputEl = gd.closest('.output');
-if (outputEl) {{
+if (outputEl) { {
     x.observe(outputEl, {childList: true});
-}}
+} }
 
                         })
                 };

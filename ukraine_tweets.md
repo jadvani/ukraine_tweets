@@ -1,3 +1,21 @@
+![banner_uoc.jpg](attachment:banner_uoc.jpg)
+
+# <center>**Ukraine Tweets**:</center>
+### <center> Un Análisis visual del conflicto en Ucrania </center>
+
+## <center> <br> Javier Advani</center>
+
+
+Un trabajo para la asignatura de Visualización de Datos, Asignatura del Máster en Ciencias de Datos de la Universitat Oberta de Catalunya. A partir de la exportación de los millones de tweets que se han posteado desde el comienzo del conflicto, veremos la evolución y tendencia de algunos de los puntos más destacados de la invasión rusa en Ucrania, centrándonos en aquellos tweets que han sido escritos en español. 
+
+![portada.png](attachment:portada.png)
+
+
+```python
+
+```
+
+
 ```python
 import os
 import pandas as pd
@@ -1042,7 +1060,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](output_39_0.png)
     
 
 
